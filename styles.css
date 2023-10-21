@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(120deg, black, grey);
+}
+h4{
+    text-align: center;
+}
+
+.containers{
+   font-family: sans-serif;
+    margin: 100px auto;
+    width: 500px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: azure;
+}
+label{
+    margin: 5px;
+}
+#userage{
+    width: 100%;
+    
+}
+#userheight1,#userheight2{
+    width: 49%;
+    margin: 5px 0;
+   
+}
+input{
+    width: 100%;
+    margin: 20px;
+}
+#btn1{
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+    border-radius: 5px;
+    margin: 20px 0;
+    
+    
+}
+p{
+    color:blueviolet;
+}
